@@ -24,6 +24,7 @@ h3 {
 	color: blue
 
 }
+
 /* about section specs */
 #about {
     font-size: 50px;
@@ -41,14 +42,11 @@ h3 {
     text-align: center;
 }
 
-
 #profile-image {
     padding-top: 15px;
     padding-bottom: 15px;
     width: 50vh;
     border-radius: 50px;
-	
-
 }
 
 #personalInfo p {
@@ -62,3 +60,60 @@ h3 {
 }
 
 /* End of personal information specs */
+
+
+/* CSUF EDU specs */
+#csuf h2 {
+    padding-top: 40px;
+    padding-bottom: 5px;
+    font-size: 50px;
+    color: rgb(218, 158, 81);
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 450;
+    text-align: center;
+}
+
+#calstatefullerton {
+    max-height: 100vh;
+    width: 55%;
+}
+
+#csuf p {
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 450;
+    text-align: center;
+    max-width: 50vw;
+    color: rgb(90, 65, 3);
+}
+/* End of CSUF EDU specs */
+
+/* UCI EDU specs */
+#uci h2 {
+	padding-top: 40px;
+    padding-bottom: 5px;
+    font-size: 50px;
+    color: rgb(218, 158, 81);
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 450;
+    text-align: center;
+}
+
+#uCIrvine {
+    border-radius: 15px;
+    max-height: 100vh;
+    width: 55%;
+}
+
+#uci p {
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 450;
+    text-align: center;
+    max-width: 50vw;
+    color: rgb(90, 65, 3);
+}
+
+/* End of UCI EDU specs */
