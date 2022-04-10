@@ -1,0 +1,64 @@
+*, ::before {
+	border-radius: 0px 0px 39px 39px;
+}
+
+/* body color specs */
+body {
+    background-image: linear-gradient(to top right, #C5C5C5 10%, #E5E5E5 100%);
+}
+
+/* main font specs */
+html {
+	font-size: 10px;
+	font-family: monospace;
+	scroll-behavior: smooth;
+}
+
+/* style for time & date */
+.time {
+	padding-left: 7.4px;
+}
+
+h3 {
+	font-size: 15px;
+	color: blue
+
+}
+/* about section specs */
+#about {
+    font-size: 50px;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 450;
+    text-align: center;
+}
+
+/* personal information specs */
+#personalInfo h2 {
+    padding-top: 40px;
+    font-size: 50px;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 450;
+    text-align: center;
+}
+
+
+#profile-image {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 50vh;
+    border-radius: 50px;
+	
+
+}
+
+#personalInfo p {
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 450;
+    text-align: center;
+    max-width: 50vw;
+    color: rgb(90, 65, 3);
+}
+
+/* End of personal information specs */
