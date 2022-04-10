@@ -18,3 +18,16 @@ menu_item.forEach((item) => {
 		mobile_menu.classList.toggle('active');
 	});
 });
+
+
+// moment js for displaying date and time set to 5 second interval of updating
+$('#date').text(moment().format('LLLL'));
+
+function refresh(){
+	var time = setInterval(function () {
+		$('#date').text(moment().format('LLLL'));
+	},5000); 
+	time;
+};
+
+refresh()
