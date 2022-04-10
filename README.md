@@ -6,7 +6,7 @@
 
 ## Project Description: 
 
-Even numbered week homework assignment. Update Professional Portfolio to include Second Project and a least three exemplary homework assignments.
+Even numbered week homework assignment. Update Portfolio to include Second Project and a least three exemplary homework assignments.
 
 <br> 
 
@@ -31,7 +31,7 @@ Even numbered week homework assignment. Update Professional Portfolio to include
 
 ## Installation
 <br>
-** Go to <a href="https://jasonjayoo.github.io/Full-Stack-Portfolio/" target="_blank">Professional-Portfolio</a> In order to view My Professional Portfolio Webpage.
+** Go to <a href="https://jasonjayoo.github.io/Full-Stack-Portfolio/" target="_blank">Full-Stack-Portfolio</a> In order to view My Full-Stack Portfolio Webpage.
 
 <br>
 <br>
@@ -56,33 +56,38 @@ Even numbered week homework assignment. Update Professional Portfolio to include
 
 <br>
 
-[Screenshot4](images/Screenshot4.png)  "My Portfolio - First Project Section"
+[Screenshot4](images/Screenshot4.png)  "Second Project Section"
 <img src="images/Screenshot4.png">
 
 <br>
 
-[Screenshot5](images/Screenshot5.png)  "First two additional projects - Weather Dash & Coding Quiz"
+[Screenshot5](images/Screenshot5.png)  "First Project Section"
 <img src="images/Screenshot5.png">
 
 <br>
 
-[Screenshot6](images/Screenshot6.png)  "Second two additional projects - Work Day Planner & PW Generator"
+[Screenshot6](images/Screenshot6.png)  "First two additional projects - The Tech Blog & Weather Dash"
 <img src="images/Screenshot6.png">
 
 <br>
 
-[Screenshot7](images/Screenshot7.png)  "Contact section with links to my: resume + email + linkedin"
+[Screenshot7](images/Screenshot7.png)  "Second two additional projects - The Coding Quiz & Work Day Planner"
 <img src="images/Screenshot7.png">
 
 <br>
 
-[Screenshot8](images/Screenshot8.png)  "Hamburger Nav Bar Replaces Regular Nav Bar at smaller screen size"
+[Screenshot8](images/Screenshot8.png)  "My Contact & Resume Section"
 <img src="images/Screenshot8.png">
 
 <br>
 
-[Screenshot9](images/Screenshot9.png)  "Hamburger Nav Bar Expanded"
+[Screenshot9](images/Screenshot9.png)  "Hamburger Nav Bar"
 <img src="images/Screenshot9.png">
+
+<br>
+
+[Screenshot10](images/Screenshot10.png)  "Hamburger Nav Bar Expanded"
+<img src="images/Screenshot10.png">
 
 <br>
 <br>
@@ -92,9 +97,10 @@ Even numbered week homework assignment. Update Professional Portfolio to include
 
 - I would like to thank my exceptional instruction staff and my tutor Faran Navazi for their continous help in my growth as a web developer.
 
+<br>
+
 - Also would like to thank my project two team mate Mr. Nicholas V. For his great dedication and effort in working with me to bring The Cloud Casino Full Stack Application to fruition. 
 
-<br>
 <br>
 
 ## License:
@@ -158,7 +164,6 @@ Even numbered week homework assignment. Update Professional Portfolio to include
 5. Set up columns and rows using Bulma.
 
 <br>
-<br>
 
 ## CSS - Details:
 
@@ -185,8 +190,6 @@ Even numbered week homework assignment. Update Professional Portfolio to include
 2. Implemented moment.js to render time on the DOM 
  
 <br>
-<br>
-
 
 ## Github (Github Repository):
 
