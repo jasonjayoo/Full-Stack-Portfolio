@@ -11,3 +11,10 @@ hamburger.addEventListener('click', () => {
 	mobile_menu.classList.toggle('active');
 });
 
+// nav bar menu item event listeners
+menu_item.forEach((item) => {
+	item.addEventListener('click', () => {
+		hamburger.classList.toggle('active');
+		mobile_menu.classList.toggle('active');
+	});
+});
