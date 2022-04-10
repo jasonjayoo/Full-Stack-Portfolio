@@ -176,3 +176,60 @@ h3 {
 }
 
 /* End of Project One specs */
+
+
+/* Additional Works Specs - Weather Dash */
+#techblog h2 {
+	padding-top: 40px;
+    padding-bottom: 5px;
+    font-size: 50px;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 450;
+    text-align: center;
+	color: 	rgb(57, 199, 242)
+}
+
+#techblog img {
+	border-radius: 20px;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* width: 85%; */
+}
+
+
+#techblog p {
+	padding-top: 15px;
+    font-size: 20px;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 450;
+    text-align: center;
+
+    color: rgb(90, 65, 3);
+} 
+
+#weatherdash h2 {
+	padding-top: 40px;
+    padding-bottom: 5px;
+    font-size: 50px;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 450;
+    text-align: center;
+	color: rgb(0, 102, 255)
+}
+
+#weatherdashboard {
+	border-radius: 20px;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 95%;
+}
+
+#weatherdash p {
+	padding-top: 15px;
+    font-size: 20px;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 450;
+    text-align: center;
+    max-width: 50vw;
+    color: rgb(90, 65, 3);
+}
+
+/* Additional Works Specs - End Weather Dash */
