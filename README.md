@@ -1,12 +1,12 @@
-# 16 Project 2: Professional Materials
+# Professional Materials
 
-(Homework-16: Updated Full-Stack Portfolio)
+(Full-Stack Portfolio)
 
 <br>
 
-## Project Description: 
+## Description: 
 
-Even numbered week homework assignment. Update Portfolio to include Second Project and a least three exemplary homework assignments.
+Update-to-date professional portfolio.
 
 <br> 
 
