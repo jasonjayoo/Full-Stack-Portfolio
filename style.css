@@ -67,6 +67,8 @@ h3 {
 /* End of personal information specs */
 
 /* CSUF EDU specs */
+
+
 #csuf h2 {
   padding-top: 40px;
   padding-bottom: 5px;
@@ -165,6 +167,7 @@ h3 {
 
 #thecloudcasino p {
   margin: 0 auto;
+  margin-top: 8px;
   padding-top: 15px;
   font-size: 20px;
   font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto, Oxygen,
@@ -702,9 +705,9 @@ h3 {
   color: rgb(26, 2, 245);
 }
 
-a {
+/* a {
   color: rgb(4, 10, 3);
-}
+} */
 
 .contact-info h2 {
   font-size: 1.3rem;
@@ -719,6 +722,23 @@ a {
   border-radius: 50px;
 }
 /* End of Contact Specs  */
+
+/* Beginning of Footer Specs */
+
+#footer {
+  background-color: #708090;
+  border-radius: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#footer strong {
+  color: #fff;
+}
+
+#footer h4 {
+  font-size: 15px;
+  color: #FFF;
+}
 
 /* Media Query For Desktop */
 @media only screen and (min-width: 1216px) {
@@ -806,6 +826,10 @@ a {
   #uci p {
     font-size: 16.6px;
   }
+
+  #csuf p {
+    font-size: 16.6px;
+  }
 }
 
 /* specs for weatherdash h2 */
@@ -851,7 +875,12 @@ a {
 /* specs for uci paragraph @ 912px */
 @media only screen and (max-width: 912px) {
   #uci p {
-    font-size: 18.5px;
+    padding-top: 30px;
+    font-size: 13.9px;
+  }
+
+  #csuf p {
+    font-size: 18.3px;
   }
 }
 
@@ -1012,6 +1041,24 @@ a {
     }
   }
 }
+
+@media only screen and (max-width: 504px) {
+  #thecloudcasino h2 {
+    font-size: 32px;
+  }
+}
+
+@media only screen and (max-width: 393px) {
+  #footer strong {
+    color: #fff;
+  }
+
+  #footer h4 {
+    font-size: 10px;
+    color: #FFF;
+  }
+}
+
 
 @media only screen and (max-width: 390px) {
   @keyframes text_reveal {
